@@ -1,0 +1,7 @@
+{
+  "name": "AI Animation Studio",
+  "description": "A web-based studio for creating animations with AI assistance. Manage projects, edit on a timeline, and export your creations.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
